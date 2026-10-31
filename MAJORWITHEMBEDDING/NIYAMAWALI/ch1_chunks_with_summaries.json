@@ -1,0 +1,32 @@
+[
+  {
+    "chunk_id": "dotm_ch1_१",
+    "chapter": 1,
+    "clause_number": "१",
+    "subclause_number": null,
+    "subsubclause_number": null,
+    "lettered_subheading": null,
+    "title": "संक्षिप्त नाम र प्रारम्भ :",
+    "content_type": "clause",
+    "content": "(१) यी नियमहरूको नाम “सवारी तथा यातायात व्यवस्था नियमावली, २०५४” रहेको छ। (२) यो नियमावली तुरुन्त प्रारम्भ हुनेछ।",
+    "summary": "यस खण्डले नियमावलीको आधिकारिक नाम “सवारी तथा यातायात व्यवस्था नियमावली, २०५४” रहेको र यो तुरुन्त प्रारम्भ हुने व्यवस्था स्पष्ट गर्दछ।",
+    "referenced_annexes": [],
+    "source_file": "NIYAMAWALI_CORE_same_format.txt",
+    "needs_verification": false
+  },
+  {
+    "chunk_id": "dotm_ch1_२",
+    "chapter": 1,
+    "clause_number": "२",
+    "subclause_number": null,
+    "subsubclause_number": null,
+    "lettered_subheading": null,
+    "title": "परिभाषा :",
+    "content_type": "clause",
+    "content": "विषय वा प्रसङ्गले अर्को अर्थ नलागेमा यस नियमावलीमा, टिप्पणी: यो नियमावली २०६७ साल श्रावण १ गतेबाट प्रारम्भ भएको। (क) \"ऐन” भन्नाले सवारी तथा यातायात व्यवस्था ऐन, २०४९ सम्झनु पर्छ। (ख) “कार्यालय” भन्नाले यातायात व्यवस्था कार्यालय सम्झनु पर्छ।",
+    "summary": "यस खण्डले नियमावलीमा प्रयोग भएका “ऐन” र “कार्यालय” शब्दको अर्थ स्पष्ट गर्दै क्रमशः सवारी तथा यातायात व्यवस्था ऐन, २०४९ र यातायात व्यवस्था कार्यालयलाई जनाउने व्यवस्था गर्दछ।",
+    "referenced_annexes": [],
+    "source_file": "NIYAMAWALI_CORE_same_format.txt",
+    "needs_verification": false
+  }
+]
